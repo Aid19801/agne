@@ -9,6 +9,7 @@ function App() {
     <p>I just love my teddies</p>
     <p>this is one</p>
     <p>this is two</p>
+    <p>this is three</p>
     </div>
   );
 }
