@@ -8,6 +8,7 @@ function App() {
     <h1>this is a dummy app</h1>
     <p>I just love my teddies</p>
     <p>this is one</p>
+    <p>this is two</p>
     </div>
   );
 }
